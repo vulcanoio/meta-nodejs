@@ -1,18 +1,16 @@
-SUMMARY = "Grunt.js command line wrapper"
+SUMMARY = "The grunt command line interface"
 HOMEPAGE = "http://gruntjs.com/"
-SECTION = "js/devel"
 LICENSE = "MIT"
-LIC_FILES_CHKSUM = "file://LICENSE-MIT;md5=331c934843c71c28b2bf98046c03eb97"
+LIC_FILES_CHKSUM = "file://README.md;md5=a24cc788ab726e615aa5bf0168c5d77d"
 
-PACKAGE_ARCH = "all"
+SRC_URI = "npm://registry.npmjs.org;name=grunt-cli;version=${PV}"
 
-SRC_URI = "https://github.com/gruntjs/grunt-cli/archive/v${PV}.tar.gz"
+NPM_SHRINKWRAP := "${THISDIR}/${PN}/npm-shrinkwrap.json"
+NPM_LOCKDOWN := "${THISDIR}/${PN}/lockdown.json"
 
-SRC_URI[md5sum] = "dfd3443d0c612523ef4870c25058d368"
-SRC_URI[sha256sum] = "c4f36b57629e8fe3d25ee312be721e85c5983af7d819c66f23b44a10faa37f76"
+inherit npm
 
 INSANE_SKIP_${PN} += "file-rdeps"
 
-inherit npm-install-global
-
 BBCLASSEXTEND = "native nativesdk"
+PACKAGE_ARCH = "all"

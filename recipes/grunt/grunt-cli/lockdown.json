@@ -1,0 +1,44 @@
+{
+  "abbrev": {
+    "1.0.7": "5b6035b2ee9d4fb5cf859f08a9be81b208491843"
+  },
+  "balanced-match": {
+    "0.4.1": "19053e2e0748eadb379da6c09d455cf5e1039335"
+  },
+  "brace-expansion": {
+    "1.1.4": "464a204c77f482c085c2a36c456bbfbafb67a127"
+  },
+  "concat-map": {
+    "0.0.1": "d8a96bd77fd68df7793a73036a3ba0d5405d477b"
+  },
+  "findup-sync": {
+    "0.3.0": "37930aa5d816b777c03445e1966cc6790a4c0b16"
+  },
+  "glob": {
+    "5.0.15": "1bc936b9e02f4a603fcc222ecf7633d30b8b93b1"
+  },
+  "inflight": {
+    "1.0.4": "6cbb4521ebd51ce0ec0a936bfd7657ef7e9b172a"
+  },
+  "inherits": {
+    "2.0.1": "b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+  },
+  "minimatch": {
+    "3.0.0": "5236157a51e4f004c177fb3c527ff7dd78f0ef83"
+  },
+  "nopt": {
+    "3.0.6": "c6465dbf08abcd4db359317f79ac68a646b28ff9"
+  },
+  "once": {
+    "1.3.3": "b2e261557ce4c314ec8304f3fa82663e4297ca20"
+  },
+  "path-is-absolute": {
+    "1.0.0": "263dada66ab3f2fb10bf7f9d24dd8f3e570ef912"
+  },
+  "resolve": {
+    "1.1.7": "203114d82ad2c5ed9e8e0411b3932875e889e97b"
+  },
+  "wrappy": {
+    "1.0.1": "1e65969965ccbc2db4548c6b84a6f2c5aedd4739"
+  }
+}
