@@ -1,0 +1,296 @@
+{
+  "ansi-regex": {
+    "2.0.0": "c5061b6e0ef8a81775e50f5d66151bf6bf371107"
+  },
+  "ansi-styles": {
+    "2.2.1": "b432dd3358b634cf75e1e4664368240533c1ddbe"
+  },
+  "archy": {
+    "1.0.0": "*"
+  },
+  "arr-diff": {
+    "2.0.0": "*"
+  },
+  "arr-flatten": {
+    "1.0.1": "*"
+  },
+  "array-unique": {
+    "0.2.1": "*"
+  },
+  "balanced-match": {
+    "0.4.1": "19053e2e0748eadb379da6c09d455cf5e1039335"
+  },
+  "boom": {
+    "2.10.1": "39c8918ceff5799f83f9492a848f625add0c766f"
+  },
+  "brace-expansion": {
+    "1.1.4": "464a204c77f482c085c2a36c456bbfbafb67a127"
+  },
+  "braces": {
+    "1.8.4": "*"
+  },
+  "camelcase": {
+    "2.1.1": "7c1d16d679a1bbe59ca02cacecfb011e201f5a1f"
+  },
+  "chalk": {
+    "1.1.3": "a8115c55e4a702fe4d150abd3872822a7e09fc98"
+  },
+  "cliui": {
+    "3.2.0": "120601537a916d29940f934da3b48d585a39213d"
+  },
+  "code-point-at": {
+    "1.0.0": "*"
+  },
+  "concat-map": {
+    "0.0.1": "d8a96bd77fd68df7793a73036a3ba0d5405d477b"
+  },
+  "decamelize": {
+    "1.2.0": "f6534d15148269b20352e7bee26f501f9a191290"
+  },
+  "escape-string-regexp": {
+    "1.0.5": "1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
+  },
+  "expand-brackets": {
+    "0.1.5": "*"
+  },
+  "expand-range": {
+    "1.8.1": "*"
+  },
+  "extend": {
+    "2.0.1": "1ee8010689e7395ff9448241c98652bc759a8260"
+  },
+  "extglob": {
+    "0.3.2": "*"
+  },
+  "fancy-log": {
+    "1.2.0": "d5a51b53e9ab22ca07d558f2b67ae55fdb5fcbd8"
+  },
+  "filename-regex": {
+    "2.0.0": "*"
+  },
+  "fill-range": {
+    "2.2.3": "*"
+  },
+  "findup-sync": {
+    "0.3.0": "37930aa5d816b777c03445e1966cc6790a4c0b16"
+  },
+  "flagged-respawn": {
+    "0.3.2": "ff191eddcd7088a675b2610fffc976be9b8074b5"
+  },
+  "for-in": {
+    "0.1.5": "*"
+  },
+  "for-own": {
+    "0.1.4": "*"
+  },
+  "glob": {
+    "5.0.15": "1bc936b9e02f4a603fcc222ecf7633d30b8b93b1"
+  },
+  "glob-base": {
+    "0.3.0": "*"
+  },
+  "glob-parent": {
+    "2.0.0": "*"
+  },
+  "glogg": {
+    "1.0.0": "*"
+  },
+  "gulplog": {
+    "1.0.0": "*"
+  },
+  "has-ansi": {
+    "2.0.0": "34f5049ce1ecdf2b0649af3ef24e45ed35416d91"
+  },
+  "hoek": {
+    "2.16.3": "20bb7403d3cea398e91dc4710a8ff1b8274a25ed"
+  },
+  "inflight": {
+    "1.0.4": "6cbb4521ebd51ce0ec0a936bfd7657ef7e9b172a"
+  },
+  "inherits": {
+    "2.0.1": "b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+  },
+  "interpret": {
+    "1.0.1": "*"
+  },
+  "invert-kv": {
+    "1.0.0": "*"
+  },
+  "is-buffer": {
+    "1.1.3": "db897fc3f7aca2d50de94b6c8c2896a4771627af"
+  },
+  "is-dotfile": {
+    "1.0.2": "*"
+  },
+  "is-equal-shallow": {
+    "0.1.3": "*"
+  },
+  "is-extendable": {
+    "0.1.1": "*"
+  },
+  "is-extglob": {
+    "1.0.0": "*"
+  },
+  "is-fullwidth-code-point": {
+    "1.0.0": "*"
+  },
+  "is-glob": {
+    "2.0.1": "*"
+  },
+  "is-number": {
+    "2.1.0": "*"
+  },
+  "is-posix-bracket": {
+    "0.1.1": "*"
+  },
+  "is-primitive": {
+    "2.0.0": "*"
+  },
+  "isarray": {
+    "1.0.0": "bb935d48582cba168c06834957a54a3e07124f11"
+  },
+  "isobject": {
+    "2.1.0": "*"
+  },
+  "kind-of": {
+    "3.0.3": "*"
+  },
+  "lcid": {
+    "1.0.0": "*"
+  },
+  "liftoff": {
+    "2.2.1": "8dfef848d3f441921c4a311fc3203ae9c34c41a7"
+  },
+  "lodash._baseeach": {
+    "4.1.2": "0b70613f3f750ddb4c09a9b3ebbcb7bbb4038e8d"
+  },
+  "lodash._baseflatten": {
+    "4.2.0": "66b4fa38645051392d4c0393ff41a3c7e2295f64"
+  },
+  "lodash._baseiteratee": {
+    "4.6.1": "*"
+  },
+  "lodash._stringtopath": {
+    "4.7.1": "*"
+  },
+  "lodash.rest": {
+    "4.0.2": "*"
+  },
+  "lodash.sortby": {
+    "4.4.2": "b54b3f454098ff9e6bdc01782e7ee875db050edc"
+  },
+  "matchdep": {
+    "1.0.1": "a57a33804491fbae208aba8f68380437abc2dca5"
+  },
+  "micromatch": {
+    "2.3.8": "*"
+  },
+  "minimatch": {
+    "3.0.0": "5236157a51e4f004c177fb3c527ff7dd78f0ef83"
+  },
+  "mute-stdout": {
+    "1.0.0": "*"
+  },
+  "normalize-path": {
+    "2.0.1": "*"
+  },
+  "number-is-nan": {
+    "1.0.0": "*"
+  },
+  "object.omit": {
+    "2.0.0": "*"
+  },
+  "once": {
+    "1.3.3": "b2e261557ce4c314ec8304f3fa82663e4297ca20"
+  },
+  "os-homedir": {
+    "1.0.1": "*"
+  },
+  "os-locale": {
+    "1.4.0": "*"
+  },
+  "parse-glob": {
+    "3.0.4": "*"
+  },
+  "path-is-absolute": {
+    "1.0.0": "263dada66ab3f2fb10bf7f9d24dd8f3e570ef912"
+  },
+  "preserve": {
+    "0.2.0": "*"
+  },
+  "pretty-hrtime": {
+    "1.0.2": "*"
+  },
+  "randomatic": {
+    "1.1.5": "*"
+  },
+  "rechoir": {
+    "0.6.2": "85204b54dba82d5742e28c96756ef43af50e3384"
+  },
+  "regex-cache": {
+    "0.4.3": "*"
+  },
+  "repeat-element": {
+    "1.1.2": "*"
+  },
+  "repeat-string": {
+    "1.5.4": "64ec0c91e0f4b475f90d5b643651e3e6e5b6c2d5"
+  },
+  "resolve": {
+    "1.1.7": "203114d82ad2c5ed9e8e0411b3932875e889e97b"
+  },
+  "semver": {
+    "4.3.6": "300bc6e0e86374f7ba61068b5b1ecd57fc6532da"
+  },
+  "semver-greatest-satisfied-range": {
+    "1.0.0": "4fb441e2a8d26c40b598327557318de272a558a0"
+  },
+  "semver-regex": {
+    "1.0.0": "92a4969065f9c70c694753d55248fc68f8f652c9"
+  },
+  "sparkles": {
+    "1.0.0": "*"
+  },
+  "stack-trace": {
+    "0.0.9": "a8f6eaeca90674c333e7c43953f275b451510695"
+  },
+  "string-width": {
+    "1.0.1": "*"
+  },
+  "strip-ansi": {
+    "3.0.1": "6a385fb8853d952d5ff05d0e8aaf94278dc63dcf"
+  },
+  "supports-color": {
+    "2.0.0": "535d045ce6b6363fa40117084629995e9df324c7"
+  },
+  "tildify": {
+    "1.2.0": "dcec03f55dca9b7aa3e5b04f21817eb56e63588a"
+  },
+  "time-stamp": {
+    "1.0.1": "*"
+  },
+  "user-home": {
+    "1.1.1": "2b5be23a32b63a7c9deb8d0f28d485724a3df190"
+  },
+  "v8flags": {
+    "2.0.11": "bca8f30f0d6d60612cc2c00641e6962d42ae6881"
+  },
+  "window-size": {
+    "0.1.4": "f8e1aa1ee5a53ec5bf151ffa09742a6ad7697876"
+  },
+  "wrap-ansi": {
+    "2.0.0": "*"
+  },
+  "wrappy": {
+    "1.0.1": "1e65969965ccbc2db4548c6b84a6f2c5aedd4739"
+  },
+  "wreck": {
+    "6.3.0": "a1369769f07bbb62d6a378336a7871fc773c740b"
+  },
+  "y18n": {
+    "3.2.1": "*"
+  },
+  "yargs": {
+    "3.32.0": "03088e9ebf9e756b69751611d2a5ef591482c995"
+  }
+}
